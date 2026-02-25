@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "All Too Soon",
+  "base_artist": "BIALYSTOCKS",
+  "createdAt": "2026-02-25T12:29:24.938409Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "All Too Soon",
+      "artist": "Trentemøller",
+      "has_synced": true,
+      "path": "select/01_All_Too_Soon_Trentemøller.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "All Too Soon",
+      "artist": "Jane Monheit",
+      "has_synced": false,
+      "path": "select/02_All_Too_Soon_Jane_Monheit.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Didn't Know About You / All Too Soon",
+      "artist": "Jane Monheit",
+      "has_synced": true,
+      "path": "select/03_I_Didn't_Know_About_You___All_Too_Soon_Jane_Monheit.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "All Too Soon",
+      "artist": "Ella Fitzgerald",
+      "has_synced": false,
+      "path": "select/04_All_Too_Soon_Ella_Fitzgerald.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "All Too Soon",
+      "artist": "Duke Ellington",
+      "has_synced": false,
+      "path": "select/05_All_Too_Soon_Duke_Ellington.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All Too Soon",
+      "artist": "Ella Fitzgerald & Joe Pass",
+      "has_synced": true,
+      "path": "select/06_All_Too_Soon_Ella_Fitzgerald_&_Joe_Pass.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "All too soon",
+      "artist": "Joe Pass",
+      "has_synced": true,
+      "path": "select/07_All_too_soon_Joe_Pass.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "All Too Soon",
+      "artist": "Ella Fitzgerald",
+      "has_synced": true,
+      "path": "select/08_All_Too_Soon_Ella_Fitzgerald.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "All Too Soon",
+      "artist": "Ben Webster",
+      "has_synced": false,
+      "path": "select/09_All_Too_Soon_Ben_Webster.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "All Too Soon",
+      "artist": "Duke Ellington & His Orchestra",
+      "has_synced": false,
+      "path": "select/10_All_Too_Soon_Duke_Ellington_&_His_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "All Too Soon",
+      "artist": "The Tiki Collective",
+      "has_synced": false,
+      "path": "select/11_All_Too_Soon_The_Tiki_Collective.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "All Too Well",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/12_All_Too_Well_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "It's All Too Much",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/13_It's_All_Too_Much_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It's All Too Much",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/14_It's_All_Too_Much_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "It's All Too Much",
+      "artist": "Journey",
+      "has_synced": false,
+      "path": "select/15_It's_All_Too_Much_Journey.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "It's All Too Much",
+      "artist": "Paul Gilbert",
+      "has_synced": true,
+      "path": "select/16_It's_All_Too_Much_Paul_Gilbert.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Taking It All Too Hard",
+      "artist": "Genesis",
+      "has_synced": true,
+      "path": "select/17_Taking_It_All_Too_Hard_Genesis.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "06 Taking It All Too Hard",
+      "artist": "Genesis",
+      "has_synced": true,
+      "path": "select/18_06_Taking_It_All_Too_Hard_Genesis.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "All Too Well (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/19_All_Too_Well_(Taylor's_Version)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/20_All_Too_Well_(10_Minute_Version)_(Taylor's_Version)_(From_The_Vault)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/21_All_Too_Well_(10_Minute_Version)_(Taylor's_Version)_(From_The_Vault)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Takin' It All Too Hard",
+      "artist": "Genesis",
+      "has_synced": true,
+      "path": "select/22_Takin'_It_All_Too_Hard_Genesis.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Taking It All Too Hard",
+      "artist": "Genesis",
+      "has_synced": true,
+      "path": "select/23_Taking_It_All_Too_Hard_Genesis.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "All Too Well",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/24_All_Too_Well_Taylor_Swift.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "All Too Soon",
+      "artist": "Bialystocks",
+      "has_synced": false,
+      "path": "select/pl_01_All_Too_Soon_Bialystocks.txt"
+    }
+  ]
+}
